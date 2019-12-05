@@ -1,0 +1,39 @@
+body {
+	background-color: red;
+	color: rgb(30,30,30);
+	font-weight: lighter;
+	font-family: 'Lora', serif;
+	font-size: 22px;
+}
+
+h1 {
+	color: white;
+	font-family: 'Roboto', sans-serif;
+	letter-spacing: 10px;
+	font-size: 60px;
+	font-weight: bolder;
+}
+
+h2 {
+	color : pink;
+	font-size: 34px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: bolder;
+}
+
+a{
+	text-decoration: underline;
+	color: #9656A1;
+	font-weight: bolder;
+}
+a:hover {
+	color : pink;
+}
+
+div {
+	border: 2px solid black;
+	background: #F4EFD3;
+	padding: 60px;
+	margin: 50px;
+	box-shadow: 0px 10px 20px rgba(0,0,0,1)
+}
